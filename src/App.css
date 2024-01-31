@@ -1,0 +1,15 @@
+.button:hover{
+        background-color: chartreuse;
+}
+.button{
+  outline-color: crimson;
+}
+
+.h1{
+  font-size: 30px;
+ 
+}
+.passw:focus{
+  outline-color: red;
+
+}
